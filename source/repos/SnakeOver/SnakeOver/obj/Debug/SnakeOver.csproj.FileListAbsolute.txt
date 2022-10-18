@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\bin\Debug\SnakeOver.exe
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\bin\Debug\SnakeOver.pdb
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.Form1.resources
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.Properties.Resources.resources
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.exe
+C:\Users\Admin\source\repos\SnakeOver\SnakeOver\obj\Debug\SnakeOver.pdb
