@@ -23,7 +23,6 @@ namespace Student_Information_Full
                 cmd.Parameters.AddWithValue("@Gender", comboBox1.Text);
                 cmd.Parameters.AddWithValue("@Address", textBox6.Text);
 
-
                 con.Open();
                 cmd.ExecuteNonQuery();
                 con.Close();
@@ -78,8 +77,6 @@ namespace Student_Information_Full
             textBox3.Clear();
             textBox4.Clear();
             textBox6.Clear();
-
-
             textBox1.Focus();
         }
 
@@ -91,13 +88,10 @@ namespace Student_Information_Full
             textBox3.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
             textBox4.Text = dataGridView1.SelectedRows[0].Cells[4].Value.ToString();
             textBox6.Text = dataGridView1.SelectedRows[0].Cells[5].Value.ToString();
-
-
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -112,7 +106,6 @@ namespace Student_Information_Full
                 cmd.Parameters.AddWithValue("@Age", textBox4.Text);
                 cmd.Parameters.AddWithValue("@Gender", comboBox1.Text);
                 cmd.Parameters.AddWithValue("@Address", textBox6.Text);
-
 
                 con.Open();
                 cmd.ExecuteNonQuery();

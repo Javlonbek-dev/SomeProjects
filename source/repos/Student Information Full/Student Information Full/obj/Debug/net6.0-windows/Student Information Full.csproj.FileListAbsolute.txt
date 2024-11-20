@@ -22,3 +22,27 @@ C:\Users\Admin\source\repos\Student Information Full\Student Information Full\ob
 C:\Users\Admin\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.pdb
 C:\Users\Admin\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\ref\Student Information Full.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\Student Information Full.exe
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\Student Information Full.deps.json
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\Student Information Full.runtimeconfig.json
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\Student Information Full.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\Student Information Full.pdb
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student_Information_Full.Form1.resources
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.csproj.CopyComplete
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\refint\Student Information Full.dll
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.pdb
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\Student Information Full.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New Project\New Project-1\newProject\source\repos\Student Information Full\Student Information Full\obj\Debug\net6.0-windows\ref\Student Information Full.dll
